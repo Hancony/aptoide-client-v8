@@ -45,6 +45,7 @@
         <data android:host="*.aptoide.com" />
         <data android:path="/download" />
         <data android:path="/app" />
+        <data android:pathPrefix="/editorial" />
       </intent-filter>
     </activity>
 
